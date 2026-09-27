@@ -2,7 +2,9 @@
 
 All notable changes to `Tamp.CycloneDx.V6` are recorded here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions follow [SemVer](https://semver.org/spec/v2.0.0.html).
 
-## [1.11.2] — Unreleased
+## [Unreleased]
+
+## [1.11.3] — 2026-09-27
 
 ### Added
 
